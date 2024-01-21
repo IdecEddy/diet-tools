@@ -1,0 +1,63 @@
+# created by virtualenv automatically
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# IDE-specific files (e.g., for Visual Studio Code, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Editor/IDE settings (e.g., for Visual Studio Code, PyCharm, etc.)
+.vscode/
+*.code-workspace
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extension modules
+*.so
+
+# Distribution/installation files
+*.egg
+
+# Ignore system-specific Python caches
+__pycache__/
+
+# Ignore logs
+*.log
+
+# Ignore user-specific Python environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore virtual environment activation scripts
+*.bat
+*.sh
+
+# Ignore Jupyter/IPython notebook configuration files
+jupyter_notebook_config.py
+
+# Ignore PyInstaller build output
+dist/
+build/
+
+# Ignore Pyre type checking files
+.pyre/
